@@ -1,38 +1,47 @@
-\contentsline {chapter}{The Design of Tufte's Books}{15}{chapter*.5}
-\contentsline {section}{Typefaces}{19}{section*.6}
-\contentsline {section}{Headings}{19}{section*.7}
-\contentsline {paragraph}{Paragraph}{19}{paragraph*.8}
-\contentsline {section}{Environments}{19}{section*.9}
-\contentsline {chapter}{On the Use of the tufte-book Document Class}{21}{chapter*.10}
-\contentsline {section}{Page Layout}{21}{section*.11}
-\contentsline {subsection}{Headings}{21}{subsection*.12}
-\contentsline {section}{Sidenotes}{21}{section*.13}
-\contentsline {section}{References}{22}{section*.14}
-\contentsline {section}{Figures and Tables}{23}{section*.15}
-\contentsline {section}{Captions}{25}{section*.16}
-\contentsline {paragraph}{Vertical alignment}{25}{paragraph*.17}
-\contentsline {paragraph}{Horizontal alignment}{25}{paragraph*.18}
-\contentsline {section}{Full-width text blocks}{26}{section*.19}
-\contentsline {section}{Typography}{26}{section*.20}
-\contentsline {subsection}{Typefaces}{26}{subsection*.21}
-\contentsline {subsection}{Letterspacing}{26}{subsection*.22}
-\contentsline {section}{Document Class Options}{27}{section*.23}
-\contentsline {chapter}{Customizing Tufte-LaTeX}{29}{chapter*.24}
-\contentsline {section}{File Hooks}{29}{section*.25}
-\contentsline {section}{Numbered Section Headings}{29}{section*.26}
-\contentsline {section}{Changing the Paper Size}{30}{section*.27}
-\contentsline {section}{Customizing Marginal Material}{30}{section*.28}
-\contentsline {chapter}{Compatibility Issues}{33}{chapter*.29}
-\contentsline {section}{Converting from \texttt {article} to \texttt {tufte-handout}}{33}{section*.30}
-\contentsline {section}{Converting from \texttt {book} to \texttt {tufte-book}}{33}{section*.31}
-\contentsline {chapter}{Troubleshooting and Support}{35}{chapter*.32}
-\contentsline {section}{Tufte-\LaTeX \xspace Website}{35}{section*.33}
-\contentsline {section}{Tufte-\LaTeX \xspace Mailing Lists}{35}{section*.34}
-\contentsline {paragraph}{Discussion list}{35}{paragraph*.35}
-\contentsline {paragraph}{Commits list}{35}{paragraph*.36}
-\contentsline {section}{Getting Help}{35}{section*.37}
-\contentsline {section}{Errors, Warnings, and Informational Messages}{36}{section*.38}
-\contentsline {section}{Package Dependencies}{36}{section*.39}
-\contentsline {chapter}{Bibliography}{39}{chapter*.40}
-\contentsline {chapter}{Index}{41}{chapter*.41}
+\contentsline {chapter}{미분하기 전에 알아야 할 것들}{13}{chapter*.5}
+\contentsline {section}{나눗셈}{13}{section*.6}
+\contentsline {subsection}{똑같이 나누기}{14}{subsection*.7}
+\contentsline {subsection}{비율}{14}{subsection*.8}
+\contentsline {section}{함수}{15}{section*.9}
+\contentsline {section}{방정식}{15}{section*.10}
+\contentsline {section}{극한}{15}{section*.11}
+\contentsline {chapter}{미분}{17}{chapter*.12}
+\contentsline {section}{접선의 기울기}{17}{section*.13}
+\contentsline {section}{Typefaces}{19}{section*.14}
+\contentsline {section}{Headings}{19}{section*.15}
+\contentsline {paragraph}{Paragraph}{19}{paragraph*.16}
+\contentsline {section}{Environments}{22}{section*.17}
+\contentsline {chapter}{적분 하기 전에 알아야 할 것들}{23}{chapter*.18}
+\contentsline {chapter}{적분}{25}{chapter*.19}
+\contentsline {section}{Page Layout}{25}{section*.20}
+\contentsline {subsection}{Headings}{25}{subsection*.21}
+\contentsline {section}{Sidenotes}{25}{section*.22}
+\contentsline {section}{References}{26}{section*.23}
+\contentsline {section}{Figures and Tables}{27}{section*.24}
+\contentsline {section}{Captions}{29}{section*.25}
+\contentsline {paragraph}{Vertical alignment}{29}{paragraph*.26}
+\contentsline {paragraph}{Horizontal alignment}{29}{paragraph*.27}
+\contentsline {section}{Full-width text blocks}{30}{section*.28}
+\contentsline {section}{Typography}{30}{section*.29}
+\contentsline {subsection}{Typefaces}{30}{subsection*.30}
+\contentsline {subsection}{Letterspacing}{30}{subsection*.31}
+\contentsline {section}{Document Class Options}{31}{section*.32}
+\contentsline {chapter}{미분의 응용}{33}{chapter*.33}
+\contentsline {section}{File Hooks}{33}{section*.34}
+\contentsline {section}{Numbered Section Headings}{33}{section*.35}
+\contentsline {section}{Changing the Paper Size}{34}{section*.36}
+\contentsline {section}{Customizing Marginal Material}{34}{section*.37}
+\contentsline {chapter}{적분의 응용}{37}{chapter*.38}
+\contentsline {section}{Converting from \texttt {article} to \texttt {tufte-handout}}{37}{section*.39}
+\contentsline {section}{Converting from \texttt {book} to \texttt {tufte-book}}{37}{section*.40}
+\contentsline {chapter}{미적분을 모두 돌아보며}{39}{chapter*.41}
+\contentsline {section}{Tufte-\LaTeX \xspace Website}{39}{section*.42}
+\contentsline {section}{Tufte-\LaTeX \xspace Mailing Lists}{39}{section*.43}
+\contentsline {paragraph}{Discussion list}{39}{paragraph*.44}
+\contentsline {paragraph}{Commits list}{39}{paragraph*.45}
+\contentsline {section}{Getting Help}{39}{section*.46}
+\contentsline {section}{Errors, Warnings, and Informational Messages}{40}{section*.47}
+\contentsline {section}{Package Dependencies}{40}{section*.48}
+\contentsline {chapter}{Bibliography}{43}{chapter*.49}
+\contentsline {chapter}{Index}{45}{chapter*.50}
 \contentsfinish 
